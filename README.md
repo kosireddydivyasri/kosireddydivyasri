@@ -2,6 +2,6 @@
 **JAVA DEVELOPER**
 ## Portfolio/LinkedIn:https://www.linkedin.com/in/divyasrikosireddy/
 ## Tech
-Java,C,HTML
+Java,C language,HTML,PowerPoint
 ## Projects(Pinned below)
 1. Clean Water & Sanitation
